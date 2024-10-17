@@ -1,6 +1,6 @@
 # Spring Boot REST API - Cliente e Departamento
 
-Este é um exemplo de aplicação **Spring Boot** que implementa uma API REST simples com endpoints de `GET` e `POST` para as entidades **Cliente** e **Departamento**. A aplicação inclui um banco de dados em memória H2 para testes e vem pré-carregada com 10 registros de exemplo.
+Aplicação para estudos em **Spring Boot** que implementa uma API REST simples com endpoints de `GET` e `POST` para as entidades **Cliente** e **Departamento**. A aplicação inclui um banco de dados em memória H2 para testes e vem pré-carregada com 10 registros de exemplo.
 
 ## Funcionalidades
 
